@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-05-22 18:55:09
+author: hbc
 categories: jekyll update
 ---
 
