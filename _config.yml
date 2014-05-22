@@ -1,7 +1,7 @@
 markdown:               redcarpet
 pygments:               true
 
-permailink:             pretty
+permalink:              /:year/:month/:title.html
 
 name:                   Developers that rocks
 title:                  Developers that rocks
