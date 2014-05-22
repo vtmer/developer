@@ -1,3 +1,13 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+markdown:               redcarpet
+pygments:               true
+
+permailink:             pretty
+
+name:                   Developers that rocks
+title:                  Developers that rocks
+url:                    http://developer.vtmer.com
+
+authors:
+    hbc:
+        name: hbc
+        github: bcho
