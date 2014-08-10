@@ -3,11 +3,15 @@ pygments:               true
 
 permalink:              /:year/:month/:title.html
 
-name:                   Developers that rocks
-title:                  Developers that rocks
+name:                   Developers that rock
+title:                  Developers that rock
 url:                    http://developer.vtmer.com
 
 authors:
     hbc:
         name: hbc
         github: bcho
+
+    link:
+        name: Link
+        github: linkkingjay
