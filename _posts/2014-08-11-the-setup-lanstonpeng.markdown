@@ -37,8 +37,3 @@ author: Lanstonpeng
     - 好音乐欲望降低器
 - 软件方面
 	- 一个更好的自己
-
-<hidden>
-如果内容的受众是vtmers，咱们的几个问题或许可以重新考虑重组一下
-</hidden>
-
