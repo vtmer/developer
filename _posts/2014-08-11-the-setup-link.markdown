@@ -1,6 +1,6 @@
 ---
 
-yout: post
+layout: post
 title: "The Setup / Link"
 datea: 2014-08-10 09:02:00
 author: Link
