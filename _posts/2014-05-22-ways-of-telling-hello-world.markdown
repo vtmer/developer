@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ways of Telling Hello, world"
-datea: 2014-05-22 22:59:00
+date: 2014-05-22 22:59:00
 author: hbc
 categories: fun programming
 ---

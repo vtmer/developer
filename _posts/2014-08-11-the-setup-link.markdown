@@ -1,10 +1,9 @@
 ---
-
 layout: post
 title: "The Setup / Link"
-datea: 2014-08-10 09:02:00
+date: 2014-08-10 09:02:00
 author: Link
-
+categories: setup
 ---
 
 ### 你是谁？以及你正在做什么？

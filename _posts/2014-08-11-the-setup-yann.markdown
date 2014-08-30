@@ -1,10 +1,9 @@
 ---
-
 layout: post
 title: "The Setup / Yann"
 date: 2014-08-10 21:00:00
 author: Yann
-
+categories: setup
 ---
 
 ### 你是谁？以及你正在做什么？

@@ -1,10 +1,9 @@
 ---
-
 layout: post
 title: "The Setup / Lanstonpeng"
-datea: 2014-08-11 19:02:00
+date: 2014-08-11 19:02:00
 author: Lanstonpeng
-
+categories: setup
 ---
 ## 1. 你是谁？以及你正在做什么？
 我是[lanstonpeng](http://lanstonpeng.github.com),工作时间角色是开发者,业余时间角色是一名创业者(认真的样子),目前(2014 Q3)正在开发个人的App与合作开发小游戏等，主要目的是给工作室建立基金会(仍旧是认真的样子)
