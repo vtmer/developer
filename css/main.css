@@ -153,6 +153,10 @@ a:visited { color: #a0a; }
   background-color: rgba(0, 0, 0, .1);
 }
 
+.post img {
+  max-width: 42em;
+}
+
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
