@@ -9,8 +9,8 @@ categories: programming javascript
 ## 目录
 
 - [第一天：准备开发环境](http://developer.vtmer.com/2014/08/refactor-gdut-jwgl-helper-p1.html)
-- [第二天：第一个功能！和第一次重构](http://developer.vtmer.com/2014/08/refactor-gdut-jwgl-helper-p2.html)
-- [第三天：成绩查询与创造环境](http://developer.vtmer.com/2014/08/refactor-gdut-jwgl-helper-p3.html)
+- [第二天：第一个功能！和第一次重构](http://developer.vtmer.com/2014/09/refactor-gdut-jwgl-helper-p2.html)
+- [第三天：成绩查询与创造环境](http://developer.vtmer.com/2014/09/refactor-gdut-jwgl-helper-p3.html)
 
 
 -------------------------------------
