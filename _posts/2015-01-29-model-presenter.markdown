@@ -68,5 +68,5 @@ categories: web programming mvc
 并且可以按需使用某一个模块；这样做既能降低模型的复杂度，也更容易进行测试。
 
 
-[fat-model]: http://127.0.0.1:4000/2014/10/fat-model-and-service-layer.html
+[fat-model]: http://developer.vtmer.com/2014/10/fat-model-and-service-layer.html
 [eloquent-event]: http://laravel.com/docs/4.2/eloquent#model-events
